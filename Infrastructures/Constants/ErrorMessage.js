@@ -1,4 +1,4 @@
-export const Error = {
+module.exports = {
     InvalidParamId: 'Invalid params id!',
     InvalidRequestBody: 'Invalid request body!',
     InternalServerError: 'Internal server error!',
